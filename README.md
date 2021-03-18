@@ -1,5 +1,9 @@
 # Groove - RGB LED Matrix w/DriverをM5Atom Liteで動かすサンプル
 
+<div align="center">
+<a href="https://gyazo.com/d923bf954fdbfde79d5c1b473c8cd11e"><img src="https://i.gyazo.com/d923bf954fdbfde79d5c1b473c8cd11e.jpg" alt="動作している様子" width="600"/></a>
+</div>
+
 ## 概要
 
 [Groove - RGB LED Matrix w/Driver](https://wiki.seeedstudio.com/Grove-RGB_LED_Matrix_w-Driver/)（Seed Technology社）を[M5Atom Lite](https://m5stack-store.myshopify.com/collections/m5-atom/products/atom-lite-esp32-development-kit)（M5Stack社）で動かすサンプルプログラムです。[絵文字を表示するサンプル](https://github.com/Seeed-Studio/Seeed_RGB_LED_Matrix/tree/master/examples/rgb_display_emoji)をベースにして，M5Atom Liteのボタンを押すごとに表示する絵文字をかえます。
